@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  text-align: center;
+  text-shadow:
+}
+
+html {
+  background-color: cornsilk;
+  font-family: monospace;
+  text-align: center;
+}
+
+p {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  list-style-type: circle;
+  text-align: center;
+}
+
+li {
+  display: block;
+}
