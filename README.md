@@ -21,7 +21,7 @@ The doggie swallowed one. Not sure what kind.
 
 ## Support and contact details
 
-[This is the text of a link][http://example.com]
+[This is the text of a link](http://example.com)
 
 ## Technologies Used
 
