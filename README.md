@@ -17,7 +17,7 @@ My first Webpage was created yesterday by Ken and I. We have a picture of a dog 
 
 ## Known Bugs
 
-The doggie swallowed one. Not sure what kind.
+No known bugs here.
 
 ## Support and contact details
 
